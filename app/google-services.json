@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880907781818",
+    "project_id": "lapak-ku",
+    "storage_bucket": "lapak-ku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880907781818:android:bdebcd448ab894c7256483",
+        "android_client_info": {
+          "package_name": "com.example.LapakKu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880907781818-i304a4rhchqvl8d3a9smt0nknbh881am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkaDVrJFqpqRjfCw4p9F0d6aHMYcBWlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880907781818-i304a4rhchqvl8d3a9smt0nknbh881am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
